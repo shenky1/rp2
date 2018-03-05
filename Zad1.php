@@ -2,10 +2,8 @@
 <html><head></head>
 <body>
 <form action="obradi.php"method="get">
-<label for="ime">Ime:</label>
 <input type="text"name="ime"id="ime"/>
 <input type="password"name="lozinka"id="lozinka"/>
-<input type="submit"name="spremi"value="Save"/>
 <input type = "radio" name="Male" value="Gender"/>
 <input type = "radio" name="Female" value="Gender"/>
 <select name="Continent">
@@ -24,4 +22,4 @@
 <button name="Cancel"type="reset">Cancel</button>
 </form>
 </body></html>
-
+teskera
